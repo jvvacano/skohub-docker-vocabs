@@ -4,8 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
   "prefLabel": {
-    "en": "French_Literature",
-    "de": "Französische_Sprache"
+    "en": "French_Literature"
   },
   "inScheme": {
     "id": "https://example.org/systematik/",
