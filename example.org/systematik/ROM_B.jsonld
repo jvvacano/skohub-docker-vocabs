@@ -3,6 +3,10 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_B",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_B",
+  "prefLabel": {
+    "en": "Romance_Literatures",
+    "de": "Romanische_Literaturen"
+  },
   "inScheme": {
     "id": "https://example.org/systematik/",
     "title": {

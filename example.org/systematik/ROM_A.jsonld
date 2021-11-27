@@ -7,14 +7,6 @@
     "en": "Romance_Languages",
     "de": "Romanische_Sprachen"
   },
-  "altLabel": {
-    "en": [
-      "purple"
-    ],
-    "de": [
-      "lila"
-    ]
-  },
   "inScheme": {
     "id": "https://example.org/systematik/",
     "title": {
