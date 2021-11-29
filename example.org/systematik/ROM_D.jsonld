@@ -6,6 +6,14 @@
   "prefLabel": {
     "en": "French_Literature"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/systematik/ROM_D_1",
+      "prefLabel": {
+        "de": "Französische_Literatur/Bibliographien_Nachschlagewerke"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/systematik/",
     "title": {

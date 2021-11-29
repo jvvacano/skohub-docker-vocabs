@@ -1,28 +1,23 @@
 {
-  "id": "https://example.org/systematik/ROM_D",
+  "id": "https://example.org/systematik/ROM_D_1",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D_1",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D_1",
   "prefLabel": {
-    "en": "French_Literature"
+    "de": "Französische_Literatur/Bibliographien_Nachschlagewerke"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/systematik/ROM_D_1",
-      "prefLabel": {
-        "de": "Französische_Literatur/Bibliographien_Nachschlagewerke"
-      }
+  "broader": {
+    "id": "https://example.org/systematik/ROM_D",
+    "prefLabel": {
+      "en": "French_Literature"
     }
-  ],
+  },
   "inScheme": {
     "id": "https://example.org/systematik/",
     "title": {
       "en": "classification",
       "de": "ROM-Systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example.org/systematik/"
   },
   "@context": {
     "@version": 1.1,
