@@ -4,17 +4,9 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
   "prefLabel": {
-    "en": "French_Literature"
+    "en": "French_Literature",
+    "de": "Französische_Sprache"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/systematik/ROM_D_1",
-      "prefLabel": {
-        "en": "French_Literature/Bibliographies__Reference_Works",
-        "de": "Französische_Literatur/Bibliographien_Nachschlagewerke"
-      }
-    }
-  ],
   "inScheme": {
     "id": "https://example.org/systematik/",
     "title": {

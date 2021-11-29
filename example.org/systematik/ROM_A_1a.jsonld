@@ -1,11 +1,14 @@
 {
-  "id": "https://example.org/systematik/ROM_D",
+  "id": "https://example.org/systematik/ROM_A_1a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_1a",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_1a",
   "prefLabel": {
-    "en": "French_Literature",
-    "de": "Französische_Sprache"
+    "en": "Bibliographies",
+    "de": "Romanische_Sprachen/Bibliographien_Nachschlagewerke_Sammelwerke/Bibliographisches"
+  },
+  "broader": {
+    "id": "https://example.org/systematik/ROM_A_1"
   },
   "inScheme": {
     "id": "https://example.org/systematik/",
@@ -13,9 +16,6 @@
       "en": "classification",
       "de": "ROM-Systematik"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example.org/systematik/"
   },
   "@context": {
     "@version": 1.1,
