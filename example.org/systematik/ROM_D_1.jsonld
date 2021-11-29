@@ -4,6 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D_1",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D_1",
   "prefLabel": {
+    "en": "French_Literature/Bibliographies__Reference_Works",
     "de": "Französische_Literatur/Bibliographien_Nachschlagewerke"
   },
   "broader": {
