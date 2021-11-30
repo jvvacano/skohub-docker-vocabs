@@ -4,7 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D_1",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D_1",
   "prefLabel": {
-    "de": "Französische_Literatur/Bibliographien_Nachschlagewerke"
+    "en": "Bibliographies__Reference_Works_Collections",
+    "de": "Bibliographien_Nachschlagewerke"
   },
   "broader": {
     "id": "https://example.org/systematik/ROM_D",

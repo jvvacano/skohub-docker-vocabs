@@ -5,7 +5,7 @@
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_286",
   "prefLabel": {
     "en": "Creole_language",
-    "de": "Romanische_Sprachen/Kreolisch"
+    "de": "Kreolisch"
   },
   "broader": {
     "id": "https://example.org/systematik/ROM_A",

@@ -10,7 +10,8 @@
     {
       "id": "https://example.org/systematik/ROM_D_1",
       "prefLabel": {
-        "de": "Französische_Literatur/Bibliographien_Nachschlagewerke"
+        "en": "Bibliographies__Reference_Works_Collections",
+        "de": "Bibliographien_Nachschlagewerke"
       }
     }
   ],

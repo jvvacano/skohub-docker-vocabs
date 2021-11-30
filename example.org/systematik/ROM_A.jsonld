@@ -12,96 +12,97 @@
       "id": "https://example.org/systematik/ROM_A_1",
       "prefLabel": {
         "en": "Bibliographies__Reference_Works_Collections",
-        "de": "Romanische_Sprachen/Bibliographien_Nachschlagewerke_Sammelwerke"
+        "de": "Bibliographien_Nachschlagewerke_Sammelwerke"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_6",
       "prefLabel": {
-        "de": "Romanische_Sprachen/Wissenschaftsgeschichte__Wissenschaftliches_Arbeiten__Methoden"
+        "de": "Wissenschaftsgeschichte__Wissenschaftliches_Arbeiten__Methoden"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_11",
       "prefLabel": {
         "en": "General_Caracteristics_and_History",
-        "de": "Romanische_Sprachen/Wesen und Geschichte"
+        "de": "Wesen und Geschichte"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_21",
       "prefLabel": {
         "en": "Relations_to_other_languages_and_Translation",
-        "de": "Romanische_Sprachen/Beziehungen_zu_anderen_Sprachen__Übersetzung"
+        "de": "Beziehungen_zu_anderen_Sprachen__Übersetzung"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_41_bis_80",
       "prefLabel": {
         "en": "Grammar",
-        "de": "Romanische_Sprachen/Grammatik"
+        "de": "Grammatik"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_81_bis_140",
       "prefLabel": {
         "en": "Lexicology",
-        "de": "Romanische_Sprachen/Lexikologie"
+        "de": "Lexikologie"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_141",
       "prefLabel": {
         "en": "Dictionaries",
-        "de": "Romanische_Sprachen/Wörterbücher"
+        "de": "Wörterbücher"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_231",
       "prefLabel": {
-        "de": "Romanische_Sprachen/Metrik__Rhythmus"
+        "en": "Metrics_and_Rhythm",
+        "de": "Metrik__Rhythmus"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_236",
       "prefLabel": {
         "en": "Language_Policy_and_Language_Maintenance",
-        "de": "Romanische_Sprachen/Sprachpflege_Sprachpolitik"
+        "de": "Sprachpflege_Sprachpolitik"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_241",
       "prefLabel": {
         "en": "Sociolinguistics_and_Pragmatics",
-        "de": "Romanische_Sprachen/Sprachebenen_Soziolinguistik_Pragmatik"
+        "de": "Sprachebenen_Soziolinguistik_Pragmatik"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_261",
       "prefLabel": {
         "en": "Special_Languages",
-        "de": "Romanische_Sprachen/Fachsprachen_Sondersprachen"
+        "de": "Fachsprachen_Sondersprachen"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_271",
       "prefLabel": {
         "en": "Language_Geography",
-        "de": "Romanische_Sprachen/Sprachgeographie"
+        "de": "Sprachgeographie"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_286",
       "prefLabel": {
         "en": "Creole_language",
-        "de": "Romanische_Sprachen/Kreolisch"
+        "de": "Kreolisch"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_999",
       "prefLabel": {
         "en": "Language_Acquisition_and_Language_Teaching",
-        "de": "Romanische_Sprachen/Fachdidaktik"
+        "de": "Fachdidaktik"
       }
     }
   ],
