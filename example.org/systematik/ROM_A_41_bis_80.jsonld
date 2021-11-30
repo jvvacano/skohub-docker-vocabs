@@ -4,6 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_41_bis_80",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_41_bis_80",
   "prefLabel": {
+    "en": "Grammar",
     "de": "Romanische_Sprachen/Grammatik"
   },
   "broader": {

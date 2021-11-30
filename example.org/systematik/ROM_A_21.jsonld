@@ -4,6 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_21",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_21",
   "prefLabel": {
+    "en": "Relations_to_other_languages_and_Translation",
     "de": "Romanische_Sprachen/Beziehungen_zu_anderen_Sprachen__Übersetzung"
   },
   "broader": {

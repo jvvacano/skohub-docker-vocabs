@@ -4,6 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_11",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_11",
   "prefLabel": {
+    "en": "General_Caracteristics_and_History",
     "de": "Romanische_Sprachen/Wesen und Geschichte"
   },
   "broader": {
