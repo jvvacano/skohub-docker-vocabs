@@ -72,30 +72,35 @@
     {
       "id": "https://example.org/systematik/ROM_A_241",
       "prefLabel": {
+        "en": "Sociolinguistics_and_Pragmatics",
         "de": "Romanische_Sprachen/Sprachebenen_Soziolinguistik_Pragmatik"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_261",
       "prefLabel": {
+        "en": "Special_Languages",
         "de": "Romanische_Sprachen/Fachsprachen_Sondersprachen"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_271",
       "prefLabel": {
+        "en": "Language_Geography",
         "de": "Romanische_Sprachen/Sprachgeographie"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_286",
       "prefLabel": {
+        "en": "Creole_language",
         "de": "Romanische_Sprachen/Kreolisch"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_999",
       "prefLabel": {
+        "en": "Language_Acquisition_and_Language_Teaching",
         "de": "Romanische_Sprachen/Fachdidaktik"
       }
     }
@@ -103,6 +108,12 @@
   "exactMatch": [
     {
       "id": "https://d-nb.info/gnd/4115788-6"
+    },
+    {
+      "id": "https://catalogue.bnf.fr/ark:/12148/cb11950451w"
+    },
+    {
+      "id": "http://id.loc.gov/authorities/subjects/sh85114953"
     }
   ],
   "inScheme": {

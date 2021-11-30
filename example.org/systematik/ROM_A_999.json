@@ -4,6 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_999",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_999",
   "prefLabel": {
+    "en": "Language_Acquisition_and_Language_Teaching",
     "de": "Romanische_Sprachen/Fachdidaktik"
   },
   "broader": {

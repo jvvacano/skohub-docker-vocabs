@@ -4,6 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_261",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_261",
   "prefLabel": {
+    "en": "Special_Languages",
     "de": "Romanische_Sprachen/Fachsprachen_Sondersprachen"
   },
   "broader": {

@@ -4,6 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_271",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_A_271",
   "prefLabel": {
+    "en": "Language_Geography",
     "de": "Romanische_Sprachen/Sprachgeographie"
   },
   "broader": {
